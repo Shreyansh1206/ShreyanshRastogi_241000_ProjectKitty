@@ -8,7 +8,7 @@ import numpy as np
 import mediapipe as mp
 import torch.nn as nn
 
-# === Constants ===
+# Constants
 MAX_FRAMES = 60
 NUM_KEYPOINTS = 33
 KEYPOINT_DIM = 2
