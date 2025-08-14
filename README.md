@@ -9,7 +9,7 @@ The goal of Project KITTY is to develop a machine-learning model-based system ca
 
 ## 📁 Project Structure
 ```
-├── Dataset.creation/ # Scripts for data collection and preparation
+├── Dataset_creation/ # Scripts for data collection and preparation
 │ ├── ConvertingRawFootageToSameFormat.py
 │ ├── DataAugmentation.py
 │ ├── DatasetFormation.py
