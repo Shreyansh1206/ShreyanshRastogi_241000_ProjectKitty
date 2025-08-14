@@ -8,6 +8,7 @@ The goal of Project KITTY is to develop a machine-learning model-based system ca
 - Giving analysis and corrective measures for sport-action
 
 ## 📁 Project Structure
+```
 ├── Dataset.creation/ # Scripts for data collection and preparation
 │ ├── ConvertingRawFootageToSameFormat.py
 │ ├── DataAugmentation.py
@@ -30,6 +31,7 @@ The goal of Project KITTY is to develop a machine-learning model-based system ca
 ├── X_60_augmented.npy # Augmented training data
 ├── y_60_augmented.npy # Augmented labels
 ├── youtube_scraped.csv # Metadata of scraped videos
+```
 
 ## Dependencies
 All the dependencies are mentioned in the requirement.txt file attached in the repository.
